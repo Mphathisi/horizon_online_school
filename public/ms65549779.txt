@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "horizononlineschool.com",
+  "Id": "fcf38063-a1fd-43d8-a230-7b8b4fbd3536"
+}
